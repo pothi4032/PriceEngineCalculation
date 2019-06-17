@@ -1,6 +1,6 @@
 # PriceEngineCalculation
 PriceEngine - C# Console application to calculate recommended product price with competitor price.
-This application was developed using Visual studio 2017 and supported from below version
+This application was developed using Visual studio 2017 and supported from Net 4.0 version
     <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
 Download, Open application in Visual studio and press F5, console application will prompt.
 
